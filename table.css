@@ -1,0 +1,8 @@
+#th1Heading{
+    background-color: bisque;
+    color: tomato;
+}
+
+table tr,th,td{
+    border: 1px solid black;
+}
